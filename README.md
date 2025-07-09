@@ -63,7 +63,6 @@ The goal is to transform raw data into meaningful, strategic business intelligen
 - **Entity Relationship Diagrams (ERD)** – Relational schema design
 
 ---
----
 
 ## Outcomes
 
